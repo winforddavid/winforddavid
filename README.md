@@ -1,7 +1,7 @@
-# <a href="https://www.linkedin.com/in/winforddavid/">Winford David</a>'s AI & GRC Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/winforddavid/">Winford David</a>'s AI & Cybersecurity Projects Portfolio 🔐
 
 Welcome to my GitHub page. I'm passionate about learning new technologies including:
-AI and creating Automated Prompts and Chatbots, GRC Consultancy, Cybersecurity, Vulnerability Management to Threat Detection, and Data Analysis using Databricks. I love tackling complex challenges through hands-on projects which allow me to dive deep into the ever-evolving landscape of cybersecurity. 
+AI and creating Automated Prompts and Chatbots, GRC Consultancy, Cybersecurity, Vulnerability Management to Threat Detection, and Data Analysis using Databricks. I love tackling new complex challenges through hands-on projects which allow me to dive deep into the ever-evolving landscape of cybersecurity. 
 Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
